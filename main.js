@@ -17,7 +17,7 @@ weather.temperature = {
 const KELVIN = 273;
 
 // API key from OpenWeatherMap.org
-const key = "82005d27a116c2880c8f0fcb866998a0";
+const key = "82f71f72e71b127ba800d58852ce7255";
 
 // geolocation checking first / make sure to turn off ad blocker if installed
 if('geolocation' in navigator){
